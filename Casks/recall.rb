@@ -39,5 +39,5 @@ cask "recall" do
     end
   end
 
-  zap :not_required
+  # No zap stanza required
 end
